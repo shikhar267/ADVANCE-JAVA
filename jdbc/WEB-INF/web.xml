@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>jdbcex</servlet-name>
+<servlet-class>jdbcex</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>jdbcex</servlet-name>
+<url-pattern>/jdbcex</url-pattern>
+</servlet-mapping>
+</web-app>

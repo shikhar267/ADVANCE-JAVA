@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>jdbcassign</servlet-name>
+<servlet-class>jdbcassign</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>jdbcassign</servlet-name>
+<url-pattern>/as</url-pattern>
+</servlet-mapping>
+</web-app>
